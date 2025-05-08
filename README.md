@@ -2,8 +2,8 @@
 
 **ChitChat** is a Python-based messaging application designed to enable secure, real-time communication between users. Developed with a simple graphical interface and a focus on encryption, the project demonstrates two distinct implementations:
 
-- **ChitChat 1.0**: Utilises RSA encryption for secure key exchange and communication.
-- **ChitChat 2.0**: Implements Simplified DES (SDES) to illustrate symmetric key encryption in an educational context.
+- **ChitChat 1.0**: Utilises RSA encryption for end-to-end encrypted communication.
+- **ChitChat 2.0**: Implements Simplified DES (SDES) and RSA to illustrate key exchange using asymmetric encryption and then symmetric end-to-end encrypted communication in an educational context.
 
 ## Key Features
 
